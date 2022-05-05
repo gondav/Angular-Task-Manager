@@ -1,4 +1,4 @@
-Task tracker application created originally by [Brad Traversy] (https://github.com/bradtraversy)
+Task tracker application created originally by [Brad Traversy](https://github.com/bradtraversy)
 
 # AngularTaskManager
 
