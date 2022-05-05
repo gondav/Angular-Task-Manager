@@ -1,6 +1,8 @@
-Task tracker application created originally by [Brad Traversy](https://github.com/bradtraversy)
+
 
 # AngularTaskManager
+
+Task tracker application created originally by [Brad Traversy](https://github.com/bradtraversy)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
